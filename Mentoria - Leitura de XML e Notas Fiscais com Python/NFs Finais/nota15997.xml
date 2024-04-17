@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<NFe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.mogiguacu.sigiss.com.br">
+	<InscricaoPrestador>
+		291781
+	</InscricaoPrestador>
+	<IEPrestador>
+		455137270118
+	</IEPrestador>
+	<CPFCNPJPrestador>
+		<CNPJ>
+			18959054000144
+		</CNPJ>
+	</CPFCNPJPrestador>
+	<ChaveNFe>
+		<NumeroNFe>
+			15997
+		</NumeroNFe>
+		<SerieNFe>
+			E
+		</SerieNFe>
+		<CodigoVerificacao>
+			A1FMUB56
+		</CodigoVerificacao>
+		<DataEmissaoNFe>
+			2019-10-22 12:06:32
+		</DataEmissaoNFe>
+	</ChaveNFe>
+	<RazaoSocialPrestador>
+		A. A. J. HOTEIS E TURISMO LTDA
+	</RazaoSocialPrestador>
+	<EnderecoPrestador>
+		<Logradouro>
+			PRES. TANCREDO DE A. NEVES
+		</Logradouro>
+		<NumeroEndereco>
+			1855
+		</NumeroEndereco>
+		<ComplementoEndereco>
+		</ComplementoEndereco>
+		<Bairro>
+			J. N. SRA DAS GRA�AS
+		</Bairro>
+		<Cidade>
+			Mogi Gua�u
+		</Cidade>
+		<UF>
+			SP
+		</UF>
+		<CEP>
+			13845350
+		</CEP>
+	</EnderecoPrestador>
+	<TelefonePrestador>
+	</TelefonePrestador>
+	<EmailPrestador>
+		controller.cmguatlanticahotels.com.br
+	</EmailPrestador>
+	<StatusNFe>
+		Ativa
+	</StatusNFe>
+	<TributacaoNFe>
+		Tributado no Prestador
+	</TributacaoNFe>
+	<OpcaoSimples>
+		N�O
+	</OpcaoSimples>
+	<ValorServicos>
+		324,44
+	</ValorServicos>
+	<ValorBase>
+		324,44
+	</ValorBase>
+	<CodigoServico>
+		901
+	</CodigoServico>
+	<AliquotaServicos>
+		3,0000
+	</AliquotaServicos>
+	<ValorISS>
+		9,73
+	</ValorISS>
+	<ISSRetido>
+		N�O
+	</ISSRetido>
+	<InscricaoTomador>
+		-98765479390
+	</InscricaoTomador>
+	<CPFCNPJTomador>
+		<CPF>
+			93737939772
+		</CPF>
+	</CPFCNPJTomador>
+	<IETomador>
+	</IETomador>
+	<RazaoSocialTomador>
+		ALVARO HENRIQUE MEDEIROS DE VASCONCELLOS
+	</RazaoSocialTomador>
+	<EnderecoTomador>
+		<Logradouro>
+			Rua Bom Pastor
+		</Logradouro>
+		<NumeroEndereco>
+			544
+		</NumeroEndereco>
+		<ComplementoEndereco>
+			544
+		</ComplementoEndereco>
+		<Bairro>
+			Tijuca
+		</Bairro>
+		<Cidade>
+			Rio de Janeiro
+		</Cidade>
+		<UF>
+			RJ
+		</UF>
+		<CEP>
+			20521060
+		</CEP>
+	</EnderecoTomador>
+	<TelefoneTomador>
+	</TelefoneTomador>
+	<EmailTomador>
+		alvaroh.workgmail.com
+	</EmailTomador>
+	<Discriminacao>
+		Versao 08.76 |Dados Hospedagem:|Hospede: ALVARO HENRIQUE MEDEIROS DE VASCONCELLOS|Outros Hospedes: |UH: 0210|Tipo de UH: Superior Queen Nao Fumante|Reserva: 744997348|Checkin: 19/10/2019|Checkout: 21/10/2019|Grupo: |Diaria  315,00|Taxa de ISS-Diarias  9,44|Trib aprox R$:134,82 Fed, 220,80 Est e 13,27 Mun Fonte: IBPT/FECOMERCIO SP 9oi3aC|
+	</Discriminacao>
+</NFe>
